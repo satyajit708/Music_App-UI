@@ -1,0 +1,59 @@
+1
+00:00:00,060 --> 00:00:02,430
+What does a really severe looking backward another video?
+
+2
+00:00:02,670 --> 00:00:08,700
+So up until now, we return verdicts like this or the Department for Mobile, and the first one is either
+
+3
+00:00:09,180 --> 00:00:10,370
+the full delivering app.
+
+4
+00:00:10,720 --> 00:00:19,260
+So for this project, I have to ask for you or you can say or test so that what you have to do is that
+
+5
+00:00:19,530 --> 00:00:21,120
+so I have this wire frame.
+
+6
+00:00:21,990 --> 00:00:29,090
+So this is a wire frame for a music player, so they could have first it and make your own music player
+
+7
+00:00:29,100 --> 00:00:30,270
+using this white frame.
+
+8
+00:00:30,750 --> 00:00:32,250
+You can name it whatever you want.
+
+9
+00:00:32,370 --> 00:00:39,060
+You can place your preferred songs over here and take inspiration from like Spotify all the way to music.
+
+10
+00:00:39,390 --> 00:00:43,770
+And you can use any color you want, or if you want to, like, make a clone of Spotify.
+
+11
+00:00:43,890 --> 00:00:46,380
+You can also do that, so it all depends on you.
+
+12
+00:00:46,620 --> 00:00:51,570
+If something were not able to do this, I'm going to also create that for the after this video.
+
+13
+00:00:51,990 --> 00:00:53,190
+So stay tuned for that.
+
+14
+00:00:53,580 --> 00:00:56,370
+So if you're concerned, then go for it and make this project.
+
+15
+00:00:56,700 --> 00:00:59,280
+So this is what we do, and I was always in the next one.

@@ -1,0 +1,135 @@
+1
+00:00:00,270 --> 00:00:03,540
+Welcome back in this, we're going to do overtime for our music player.
+
+2
+00:00:04,650 --> 00:00:05,700
+So let's start prototyping.
+
+3
+00:00:06,210 --> 00:00:08,430
+As you can see, I have four frames on my screen.
+
+4
+00:00:09,000 --> 00:00:11,310
+Let's start from the first frame.
+
+5
+00:00:11,940 --> 00:00:14,040
+So select the frame, learn to prototype panel.
+
+6
+00:00:14,790 --> 00:00:18,090
+So I'm going to join the first frame to set everything.
+
+7
+00:00:18,690 --> 00:00:20,760
+And let's add a smart animation audio.
+
+8
+00:00:22,040 --> 00:00:25,910
+And never get to never get to iPhone 13, Pro Max one.
+
+9
+00:00:26,300 --> 00:00:29,330
+And the animation is an instant, so let's choose smart animation.
+
+10
+00:00:31,170 --> 00:00:34,620
+OK, now to second frame, this is an ostrich in the song.
+
+11
+00:00:34,850 --> 00:00:40,470
+So if you click on this button for Britain, then the song is going to change.
+
+12
+00:00:41,400 --> 00:00:44,040
+And the film is going to be disturbing.
+
+13
+00:00:44,910 --> 00:00:47,010
+So let's choose on one.
+
+14
+00:00:48,840 --> 00:00:54,060
+And contoured film user can go on the second line like this.
+
+15
+00:00:55,060 --> 00:00:57,700
+And all the settings will be sitting on this.
+
+16
+00:00:58,810 --> 00:01:01,960
+And from here, the playlist is going to open.
+
+17
+00:01:03,250 --> 00:01:04,680
+Let's choose Martin Mission over here.
+
+18
+00:01:05,790 --> 00:01:07,740
+I think we are done with protecting so.
+
+19
+00:01:07,860 --> 00:01:08,580
+So let's prevent it.
+
+20
+00:01:08,930 --> 00:01:15,450
+So it was this that or the smart generation you can see, you can see the logos on the top now.
+
+21
+00:01:16,080 --> 00:01:20,040
+And I won't pretend the song, so I'm going to click on this fall button.
+
+22
+00:01:21,420 --> 00:01:22,560
+This is the second song.
+
+23
+00:01:23,220 --> 00:01:26,340
+And from here, I can go back to my first song.
+
+24
+00:01:28,040 --> 00:01:31,490
+From this playlist bottom, I can access playlist like this.
+
+25
+00:01:32,240 --> 00:01:39,390
+You can see this cool animation, but I can't go back because I said the protection for this playlist,
+
+26
+00:01:39,390 --> 00:01:40,550
+so let's do that first.
+
+27
+00:01:42,070 --> 00:01:46,030
+So from this, it has to go onto the second thing.
+
+28
+00:01:46,670 --> 00:01:50,080
+Elizabeth smart animation now this played again.
+
+29
+00:01:51,200 --> 00:01:55,880
+OK, if I click on this button, you can see the list is going Donald.
+
+30
+00:01:56,950 --> 00:01:58,210
+And just open it again.
+
+31
+00:01:59,180 --> 00:02:02,720
+Close, you can also see the animation effect audio you.
+
+32
+00:02:03,140 --> 00:02:04,280
+This looks really cool.
+
+33
+00:02:05,960 --> 00:02:12,000
+So this is the time for our music player app, so the secretaries and others who are in the next room
+
+34
+00:02:12,050 --> 00:02:13,190
+or in next project.

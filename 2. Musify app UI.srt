@@ -1,0 +1,239 @@
+1
+00:00:15,290 --> 00:00:18,230
+To improve studio, I give this wireframe to you.
+
+2
+00:00:18,440 --> 00:00:21,110
+I know some offshore might done that project.
+
+3
+00:00:21,740 --> 00:00:22,800
+So who made that project?
+
+4
+00:00:22,820 --> 00:00:27,230
+Who can share that project on your story in the Instagram and you can take me with you.
+
+5
+00:00:27,560 --> 00:00:29,420
+You can see my Instagram I.D. also.
+
+6
+00:00:29,780 --> 00:00:32,420
+And you can also share that project on our Discord server.
+
+7
+00:00:32,870 --> 00:00:35,480
+Then our storm can take inspiration from your project.
+
+8
+00:00:35,870 --> 00:00:37,580
+Those who not build that project.
+
+9
+00:00:37,580 --> 00:00:40,100
+So let's make a project for them.
+
+10
+00:00:40,640 --> 00:00:42,200
+So let's create a new one.
+
+11
+00:00:44,740 --> 00:00:47,710
+So I'm going to make music for it.
+
+12
+00:00:49,030 --> 00:00:50,930
+It is kind of it sounds like.
+
+13
+00:00:52,120 --> 00:00:58,600
+I know it to sound like Spotify because I took inspiration from Spotify, so I literally we can take
+
+14
+00:00:58,600 --> 00:01:07,480
+inspiration from Spotify, audio, music or any you will or any your favorite music player so as to
+
+15
+00:01:07,480 --> 00:01:07,990
+the frame.
+
+16
+00:01:09,860 --> 00:01:14,570
+Currently, we are how iPhone 13 Max, so we are going to choose this one.
+
+17
+00:01:15,590 --> 00:01:16,700
+Let's look at our wild thing.
+
+18
+00:01:17,750 --> 00:01:25,310
+So we have things like profile picture logo on the hamburger menu and so on and so on.
+
+19
+00:01:25,850 --> 00:01:27,380
+So let's clear those things.
+
+20
+00:01:34,190 --> 00:01:37,670
+OK, now let's create a logo for our music player.
+
+21
+00:01:43,030 --> 00:01:49,840
+So now what do we have to do this time to create this section for our image and also for our song?
+
+22
+00:01:50,320 --> 00:01:52,280
+So this is a.
+
+23
+00:01:56,600 --> 00:02:04,940
+So anything we have to be is there to add these icons like a dislike, it's like open labor and pause
+
+24
+00:02:04,940 --> 00:02:08,840
+button and foul and make button.
+
+25
+00:02:09,440 --> 00:02:11,840
+So let's get those weapons.
+
+26
+00:02:34,110 --> 00:02:38,580
+Now it is the dark mode is really famous and lots of people are using them.
+
+27
+00:02:38,640 --> 00:02:42,420
+I'm also one of them, so let's clear their dark mode.
+
+28
+00:02:42,720 --> 00:02:49,440
+But before we make the dark mode, so let's do the color of these buttons, like if I applied the dark
+
+29
+00:02:49,440 --> 00:02:52,470
+mode on the frame so everything is going to be black.
+
+30
+00:02:52,470 --> 00:02:58,060
+So our buttons like play pause button, hot button and the dislike button is not going to be visible.
+
+31
+00:02:58,830 --> 00:03:01,800
+So let's make some changes or you?
+
+32
+00:03:06,360 --> 00:03:10,980
+If you want to, you can just sit this like three things like a play pause button and forward and backward
+
+33
+00:03:10,980 --> 00:03:16,950
+button, and you can change the color of the heart button and it's just like button.
+
+34
+00:03:18,420 --> 00:03:22,920
+You can like, make them white and and these three things would be blue.
+
+35
+00:03:23,400 --> 00:03:24,600
+So it really depends on you.
+
+36
+00:03:34,890 --> 00:03:40,440
+Soon, the color of the hamburger and also the color of these.
+
+37
+00:03:41,580 --> 00:03:43,170
+No, that's music play.
+
+38
+00:03:48,240 --> 00:03:51,690
+Now you can see our logo at the Hamburger is visible London.
+
+39
+00:03:57,760 --> 00:04:04,960
+OK, what else is remaining is they have to make this certain, I find the bar and display this button
+
+40
+00:04:05,620 --> 00:04:08,930
+and this menu, the playlist.
+
+41
+00:04:10,480 --> 00:04:12,220
+So let's make those things.
+
+42
+00:04:12,460 --> 00:04:14,950
+So we already have this sort of standard.
+
+43
+00:05:13,890 --> 00:05:15,000
+Bill is with West Ham.
+
+44
+00:05:16,180 --> 00:05:19,330
+All we have to add time and also this place is.
+
+45
+00:05:21,810 --> 00:05:23,790
+But it's at a time, audiences.
+
+46
+00:06:12,100 --> 00:06:19,570
+So everything is done, but things are private and the music name and the picture.
+
+47
+00:06:19,720 --> 00:06:21,580
+So let's add a profile, Victoria.
+
+48
+00:06:36,640 --> 00:06:39,070
+So let's create a section song name.
+
+49
+00:07:45,750 --> 00:07:46,180
+Okay.
+
+50
+00:07:46,290 --> 00:07:48,800
+Or song pages, second song Bridges, oh, sorry.
+
+51
+00:07:49,590 --> 00:07:51,480
+Listen to that, it's playing this song.
+
+52
+00:08:43,900 --> 00:08:50,230
+OK, so we have done with our music interface, so let's make that Blaze list, no.
+
+53
+00:08:53,040 --> 00:08:53,610
+Like this one?
+
+54
+00:10:36,220 --> 00:10:37,780
+So we are done with our head.
+
+55
+00:10:38,050 --> 00:10:40,090
+So one thing is to many that.
+
+56
+00:10:41,440 --> 00:10:46,540
+To create a world front page, the first page that is going to be our logo.
+
+57
+00:11:06,700 --> 00:11:07,850
+So this is my point.
+
+58
+00:11:07,900 --> 00:11:14,050
+So this looks like this, so I know you wouldn't you would ask me then will look different.
+
+59
+00:11:14,530 --> 00:11:20,410
+And in the next video, the last thing is remaining is that to act prototype so that the world is ready
+
+60
+00:11:20,410 --> 00:11:21,940
+and I will do it in the next one.
